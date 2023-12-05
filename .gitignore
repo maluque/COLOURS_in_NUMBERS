@@ -1,0 +1,10 @@
+#data/
+notebooks/temp/
+notebooks/temp/logs/
+notebooks/logs/
+logs/
+notebooks/def/logs/
+.ipynb_checkpoints
+.DS_Store
+Untitled.ipynb
+*.twbr
