@@ -1,0 +1,23 @@
+1701764822260	geckodriver	INFO	Listening on 127.0.0.1:61794
+1701764822860	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/_2/56h_hw1n3bd79mkhskq2r__40000gn/T/rust_mozprofileEvmFUi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701764826044	Marionette	INFO	Marionette enabled
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1701764826989	Marionette	INFO	Listening on port 61812
+WebDriver BiDi listening on ws://127.0.0.1:61795
+Read port: 61812
+1701764827844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:61795/devtools/browser/7bd43fdf-dbee-4fad-96df-aaa2453c4099
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1701764856141	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1701764918635	Marionette	INFO	Stopped listening on port 61812
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1701765012729	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
