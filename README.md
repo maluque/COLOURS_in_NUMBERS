@@ -39,7 +39,7 @@ For price analysis, I segmented the ~600 brands into 3 categories based on the a
 ## Price Projection and Prediction (Dashboard 3):
 
 * I gathered Google search data for both color and garment types to outline fashion trends over five-year and seasonal cycles.
-* Confirmed trends include decreased clothing searches during the pandemic and increased interest in black clothing during November's "Black Friday."
+* Confirmed trends include decreased clothing searches during the pandemic and increased interest in "black" during November's "Black Friday."
 * Using these timelines, I projected prices for the year 2024.
 * Lastly, leveraging all collected information, I constructed a Machine Learning model enabling the client to predict prices for each garment type of interest.
 

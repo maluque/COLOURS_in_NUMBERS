@@ -5386,8 +5386,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='175' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='174' param='vert' w='99000' x='500' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='179' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='178' param='vert' w='99000' x='500' y='1000'>
                 <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='12342' id='15' w='34125' x='1313' y='625'>
                   <formatted-text>
                     <run fontcolor='#ffffff' fontname='Tableau Regular' fontsize='28'>Colours in Numbers</run>
@@ -5530,7 +5530,7 @@
           <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='55125' id='5' param='horz' w='44594' x='44237' y='44250'>
             <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='55125' id='12' param='vert' w='44594' x='44237' y='44250'>
               <zone h='50118' id='40' name='Popular Colors' w='42094' x='45487' y='46750'>
-                <layout-cache cell-count-h='14' minwidth='100' non-cell-size-h='44' type-h='cell' type-w='scalable' />
+                <layout-cache minwidth='100' type-h='cell' type-w='scalable' />
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -5549,7 +5549,7 @@
           </zone>
           <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='55066' id='10' param='vert' w='38581' x='2984' y='44309'>
             <zone h='50062' id='32' name='Popular Types' w='36081' x='4234' y='46809'>
-              <layout-cache cell-count-h='6' non-cell-size-h='44' type-h='cell' type-w='fixed' />
+              <layout-cache type-h='cell' type-w='fixed' />
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -5705,8 +5705,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1400' minheight='1400' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='174' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='173' param='vert' w='99000' x='500' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='178' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='177' param='vert' w='99000' x='500' y='1000'>
                 <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='12342' id='15' w='38581' x='2984' y='625'>
                   <formatted-text>
                     <run fontcolor='#ffffff' fontname='Tableau Regular' fontsize='28'>Colours in Numbers</run>
@@ -5763,7 +5763,7 @@
                   </zone-style>
                 </zone>
                 <zone fixed-size='280' h='50118' id='40' is-fixed='true' name='Popular Colors' w='42094' x='45487' y='46750'>
-                  <layout-cache cell-count-h='14' minwidth='100' non-cell-size-h='44' type-h='cell' type-w='scalable' />
+                  <layout-cache minwidth='100' type-h='cell' type-w='scalable' />
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -5800,7 +5800,7 @@
                   </zone-style>
                 </zone>
                 <zone fixed-size='280' h='50062' id='32' is-fixed='true' name='Popular Types' w='36081' x='4234' y='46809'>
-                  <layout-cache cell-count-h='6' non-cell-size-h='44' type-h='cell' type-w='fixed' />
+                  <layout-cache type-h='cell' type-w='fixed' />
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -6177,8 +6177,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2250' minheight='2250' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='206' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='205' param='vert' w='99000' x='500' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='210' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='209' param='vert' w='99000' x='500' y='1000'>
                 <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='12344' id='15' w='37579' x='2984' y='625'>
                   <formatted-text>
                     <run fontcolor='#ffffff' fontname='Tableau Regular' fontsize='28'>Colours in Numbers</run>
@@ -6606,8 +6606,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1800' minheight='1800' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='211' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='210' param='vert' w='99000' x='500' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='215' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='214' param='vert' w='99000' x='500' y='1000'>
                 <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='12500' id='15' w='43885' x='2678' y='0'>
                   <formatted-text>
                     <run fontcolor='#ffffff' fontname='Tableau Regular' fontsize='28'>Colours in Numbers</run>
@@ -7412,7 +7412,7 @@
       </viewpoint>
       <simple-id uuid='{5D909BED-34EF-47D0-A859-3EC3E562A7B8}' />
     </window>
-    <window class='dashboard' maximized='true' name='0.CONTEXT'>
+    <window class='dashboard' name='0.CONTEXT'>
       <viewpoints>
         <viewpoint name='Overview'>
           <zoom type='entire-view' />
@@ -7467,7 +7467,7 @@
       <active id='-1' />
       <simple-id uuid='{71C5A8C6-BB47-4356-9B86-3699349B4D76}' />
     </window>
-    <window class='dashboard' name='3.FORECAST'>
+    <window class='dashboard' maximized='true' name='3.FORECAST'>
       <viewpoints>
         <viewpoint name='Predict Price'>
           <zoom type='entire-view' />
